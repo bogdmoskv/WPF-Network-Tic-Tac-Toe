@@ -1,0 +1,61 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="background.jpg" />
+    <None Remove="bovo.ico" />
+    <None Remove="createGame.png" />
+    <None Remove="gameBackground.png" />
+    <None Remove="Images\background.jpg" />
+    <None Remove="Images\bovo.ico" />
+    <None Remove="Images\cats.jpg" />
+    <None Remove="Images\connect.png" />
+    <None Remove="Images\connectHover.png" />
+    <None Remove="Images\createGame.png" />
+    <None Remove="Images\createGameHover.png" />
+    <None Remove="Images\fight.gif" />
+    <None Remove="Images\gameBackground.png" />
+    <None Remove="Images\logo.png" />
+    <None Remove="Images\neoback.jpg" />
+    <None Remove="Images\sandClock.gif" />
+    <None Remove="Images\unknownImage.png" />
+    <None Remove="Images\user.png" />
+    <None Remove="Images\vs.png" />
+    <None Remove="Images\vs1.png" />
+    <None Remove="logo.png" />
+    <None Remove="neoback.jpg" />
+    <None Remove="unknownImage.png" />
+    <None Remove="user.png" />
+    <None Remove="vs.png" />
+    <None Remove="vs1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\background.jpg" />
+    <Resource Include="Images\bovo.ico" />
+    <Resource Include="Images\cats.jpg" />
+    <Resource Include="Images\connect.png" />
+    <Resource Include="Images\connectHover.png" />
+    <Resource Include="Images\createGame.png" />
+    <Resource Include="Images\createGameHover.png" />
+    <Resource Include="Images\gameBackground.png" />
+    <Resource Include="Images\logo.png" />
+    <Resource Include="Images\neoback.jpg" />
+    <Content Include="Images\fight.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\sandClock.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="Images\unknownImage.png" />
+    <Resource Include="Images\user.png" />
+    <Resource Include="Images\vs.png" />
+  </ItemGroup>
+
+</Project>

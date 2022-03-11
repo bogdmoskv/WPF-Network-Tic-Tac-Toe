@@ -1,0 +1,26 @@
+﻿<Window x:Class="WpfApp1.MenuWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Сетевой режим игры &quot;Крестики-нолики&quot;. Приложение разработано Б. Москвичёвым" Height="600" Width="1000"  MinHeight="384" MinWidth="640" WindowStartupLocation="CenterScreen" Icon="/Images/bovo.ico">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="0.6*"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="0.40*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Image Grid.RowSpan="5" Source="Images/background.jpg" Stretch="Fill" Opacity="0.85"/>
+        <Image Grid.Row="0" Source="Images/logo.png" Margin="0,10"/>
+        <!--<MediaElement Name="mediaElement" Grid.Row="0" Source="Images/sandClock.gif"></MediaElement>-->
+        
+        <TextBox Grid.Row="1" x:Name="NameField" Foreground="Gray"  Padding="5" MinWidth="520" MaxWidth="800" HorizontalAlignment="Center"  TextWrapping="Wrap" VerticalAlignment="Center"  FontSize="30" Text="Введите своё имя для продолжения" PreviewMouseLeftButtonDown="NameField_PreviewMouseLeftButtonDown"/>
+        <Image x:Name="createGameBtn" Grid.Row="2" Source="Images/createGame.png" MouseEnter="createGameBtn_MouseEnter" MouseLeave="createGameBtn_MouseLeave" MouseDown="createGameBtn_MouseDown"/>
+        <Image x:Name="connectToGameBtn" Grid.Row="3" Source="Images/connect.png" MouseEnter="connectToGameBtn_MouseEnter" MouseLeave="connectToGameBtn_MouseLeave" MouseDown="connectToGameBtn_MouseDown"/>
+        
+    </Grid>
+</Window>

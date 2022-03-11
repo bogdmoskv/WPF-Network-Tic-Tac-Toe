@@ -1,0 +1,98 @@
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\GameWindow.g.cs
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\GameWindow.baml
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\GameWindowStyles.baml
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MenuWindow.g.cs
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MenuWindow.baml
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\GameWindowStyles.baml
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\GameWindow.g.cs
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MenuWindow.g.cs
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\GameWindow.baml
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MenuWindow.baml
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\EstablishedConnectionWindow.g.cs
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\EstablishedConnectionWindow.baml
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_Content.g.cs
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Images\sandClock.gif
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Images\fight.gif
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ServerInformWindow.g.cs
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ServerInformWindow.baml
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WinWindow.g.cs
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WinWindow.baml
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\LooseWindow.g.cs
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\LooseWindow.baml
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\NobodyWonWindow.g.cs
+C:\Users\bogdm\OneDrive\Рабочий стол\Сетев_кр — копия\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\NobodyWonWindow.baml
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Images\fight.gif
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Images\sandClock.gif
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\GameWindowStyles.baml
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\EstablishedConnectionWindow.g.cs
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\GameWindow.g.cs
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\LooseWindow.g.cs
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MenuWindow.g.cs
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\NobodyWonWindow.g.cs
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ServerInformWindow.g.cs
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WinWindow.g.cs
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_Content.g.cs
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\EstablishedConnectionWindow.baml
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\GameWindow.baml
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\LooseWindow.baml
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MenuWindow.baml
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\NobodyWonWindow.baml
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ServerInformWindow.baml
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WinWindow.baml
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\bogdm\OneDrive\Рабочий стол\Network TicTacToe\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
